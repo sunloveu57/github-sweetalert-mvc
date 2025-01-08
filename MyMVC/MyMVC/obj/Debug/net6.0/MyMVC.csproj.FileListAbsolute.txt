@@ -1,0 +1,52 @@
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\appsettings.json
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.staticwebassets.runtime.json
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.exe
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.deps.json
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.runtimeconfig.json
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.dll
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.pdb
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.csproj.AssemblyReference.cache
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.AssemblyInfoInputs.cache
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.AssemblyInfo.cs
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.csproj.CoreCompileInputs.cache
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.RazorAssemblyInfo.cache
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.RazorAssemblyInfo.cs
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\scopedcss\bundle\MyMVC.styles.css
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\scopedcss\projectbundle\MyMVC.bundle.scp.css
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.dll
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\refint\MyMVC.dll
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.pdb
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.genruntimeconfig.cache
+D:\BACKUP\Learning\.NET Core MVC\101-New Project\MyMVC\MyMVC\obj\Debug\net6.0\ref\MyMVC.dll
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\appsettings.json
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.staticwebassets.runtime.json
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.exe
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.deps.json
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.runtimeconfig.json
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.dll
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\bin\Debug\net6.0\MyMVC.pdb
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.csproj.AssemblyReference.cache
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.AssemblyInfoInputs.cache
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.AssemblyInfo.cs
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.csproj.CoreCompileInputs.cache
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.RazorAssemblyInfo.cache
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.RazorAssemblyInfo.cs
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\scopedcss\bundle\MyMVC.styles.css
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\scopedcss\projectbundle\MyMVC.bundle.scp.css
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.dll
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\refint\MyMVC.dll
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.pdb
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\MyMVC.genruntimeconfig.cache
+D:\BACKUP\Learning\.NET Core MVC\171-Sweet Alert with MVC\MyMVC\MyMVC\obj\Debug\net6.0\ref\MyMVC.dll
